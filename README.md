@@ -69,3 +69,15 @@ hexo publish [layout] <title>
 # 图
 随机图做背景，感觉会有意思很对。感谢
 [随机二次元图](https://www.loliapi.com/docs/acg/)
+
+
+# 后台
+
+感觉使用命令行添加文章在未来会很麻烦，所以想整个后台方便一点，于是在网上搜索，果然有前辈准备好的内容。
+* [hexo-admin-ehc](https://github.com/lwz7512/hexo-admin-ehc)
+这个有问题，空白页面
+* [hexo-admin](https://github.com/jaredly/hexo-admin)
+ok但是页面很粗糙
+* [Qexo](https://www.oplog.cn/qexo/start.html)
+这个很不错，经历两天总算配置好了。
+

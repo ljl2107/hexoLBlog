@@ -2,7 +2,7 @@
 abbrlink: 使用C++实现的base64编码解码器
 categories:
 - - 技术
-cover: /img/R-C.jfif
+cover: /img/R-C.jpg
 date: '2023-06-04T22:32:21.300648+08:00'
 excerpt: Base64 在线编码解码 | Base64 加密解密 - Base64.us 所有结果可以使用上述网站检验。  什么是base64编码？ base64编码是一种编码方式  用64 + 1 个字符表示字符  本质是将三位8比特字符扩增为四位8比特字符，但是这么说开始可能很懵。 下面给个图示，该编码是以3字节为一个单位进行操作。  原来的:   每个双向箭头为一个单元(6个比特)，每一个单元单独拿出...
 tags:
@@ -11,7 +11,7 @@ tags:
 - 编码
 - 实例
 title: 使用C++实现的base64编码解码器
-top_img: /img/R-C.jfif
+top_img: /img/R-C.jpg
 updated: 2023-6-4T23:10:17.463+8:0
 ---
 [Base64 在线编码解码 | Base64 加密解密 - Base64.us](https://base64.us/)

@@ -10,6 +10,21 @@
 在这里我也学会了怎么设置主题。
 就是很奇怪我使用`npm`确是不行的，用github是可以的。
 [hexo官网](https://hexo.io/zh-cn/docs/writing)
+# 快速开始
+## 克隆项目
+```
+git clone https://github.com/ljl2107/hexoLBlog.git
+```
+## 安装包
+```
+npm insall
+```
+## 修改配置
+```
+到.yml文件里自行修改
+```
+
+
 # 操作
 ## 创建页面
 ```

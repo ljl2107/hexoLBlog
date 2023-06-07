@@ -96,3 +96,10 @@ ok但是页面很粗糙
 * [Qexo](https://www.oplog.cn/qexo/start.html)
 这个很不错，经历两天总算配置好了。
 
+# 图床
+使用github有问题：422返回码
+
+试试Amazon S3
+[S3](https://docs.aws.amazon.com/zh_cn/AmazonS3/latest/userguide/Welcome.html)
+注册出现问题，已联系官方，看什么时候回复吧。
+

@@ -74,6 +74,17 @@ hexo new draft name
 hexo publish [layout] <title>
 ```
 草稿默认不显示
+## 正文前部设置
+用于设置文章的日期封面等内容
+[front-matter正文前部设置](https://hexo.io/zh-cn/docs/front-matter)
+补充一些内容
+> |   参数   |   描述   |
+> | :-----: | :------: |
+> |  cover  |  封面图  |
+> | top_img | 顶部图片 |
+
+有点疑惑为什么官方的不全。
+
 # Netlify
 [官网](https://app.netlify.com/)
 ## 华为云购买的域名在Netlify上进行注册。

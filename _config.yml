@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false #全局资源文件
+post_asset_folder: true #全局资源文件
 relative_link: false
 future: true
 highlight:

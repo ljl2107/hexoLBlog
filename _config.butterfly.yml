@@ -231,7 +231,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: 看看我
       link: https://github.com/ljl2107
   card_announcement:
     enable: true

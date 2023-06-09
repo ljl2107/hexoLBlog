@@ -13,6 +13,7 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
+  说说: /talks/ || fas fa-beer
   列表||fas fa-list:
     音乐: /music/ || fas fa-music
     视频: /movies/ || fas fa-video

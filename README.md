@@ -83,8 +83,6 @@ hexo publish [layout] <title>
 > |  cover  |  封面图  |
 > | top_img | 顶部图片 |
 
-有点疑惑为什么官方的不全。
-
 # Netlify
 [官网](https://app.netlify.com/)
 ## 华为云购买的域名在Netlify上进行注册。
@@ -92,20 +90,13 @@ hexo publish [layout] <title>
 快速添加解析里填入 netlify 给你提供的这个内容
 ![](vx_images/90061612248998.png)
 
-# 图
-随机图做背景，感觉会有意思很对。感谢
-[随机二次元图](https://www.loliapi.com/docs/acg/)
-
 
 # 后台
 
 感觉使用命令行添加文章在未来会很麻烦，所以想整个后台方便一点，于是在网上搜索，果然有前辈准备好的内容。
-* [hexo-admin-ehc](https://github.com/lwz7512/hexo-admin-ehc)
-这个有问题，空白页面
-* [hexo-admin](https://github.com/jaredly/hexo-admin)
-ok但是页面很粗糙
+
 * [Qexo](https://www.oplog.cn/qexo/start.html)
-这个很不错，经历两天总算配置好了。
+很不错。
 
 # 图床
 使用github有问题：422返回码
@@ -116,6 +107,5 @@ ok但是页面很粗糙
 所以目前方案是可以在Qexo上上传图片，然后在图床管理网址或者是软件`picgo`上复制链接进行导入文章。(利用自带的加速便可以了)
 暂时先这样吧，看之后有没有更合适的方案。
 
-> [据说是不需要登录的图片托管网站](https://postimages.org/)
 
-
+>随机图做页面背景，效果很好哦。感谢[随机二次元图](https://www.loliapi.com/docs/acg/)

@@ -24,7 +24,7 @@ date: 2023-06-09 15:57:18
       name: "ljl2107",
       title:'闲谈',
       limit: 10,
-      useLoadingImg: true,
+      useLoadingImg: false,
       loadingimg:'https://fastly.jsdelivr.net/gh/ljl2107/imageshack/Running-deer.gif',
       baseURL: "https://www.wyxybzy.top/",
     }).then(function (){

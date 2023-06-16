@@ -1,15 +1,15 @@
 # 欢迎！
-![bg2.jpg](https://fastly.jsdelivr.net/gh/ljl2107/imageshack/Anime/bg2.jpg)
+![bg](https://fastly.jsdelivr.net/gh/ljl2107/imageshack/Anime/bg3.png)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/325f0f8d-5b82-4167-9991-f5d5506a7bb1/deploy-status)](https://app.netlify.com/sites/celebrated-bienenstitch-eb3814/deploys)
 
-这是一个新手的[个人空间](https://ljl2107.top/)
+这是一个新手的[个人空间](https://ljl2107.top/)  
 
-[掘金的教程](https://juejin.cn/post/7190953007591194679#heading-4)
-通过这个我才真正学会怎么搞
-[hexo主题butterfly主题](https://butterfly.js.org/)
-在这里我也学会了怎么设置主题。
-就是很奇怪我使用`npm`确是不行的，用github是可以的。
-[hexo官网](https://hexo.io/zh-cn/docs/writing)
+[掘金的教程](https://juejin.cn/post/7190953007591194679#heading-4)  
+通过这个我才真正学会怎么搞  
+[hexo主题butterfly主题](https://butterfly.js.org/)  
+在这里我也学会了怎么设置主题。  
+就是很奇怪我使用`npm`确是不行的，用github是可以的。 
+[hexo官网](https://hexo.io/zh-cn/docs/writing)  
 # 快速开始
 ## 克隆项目
 ```

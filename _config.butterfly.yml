@@ -902,6 +902,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+    - <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
     # - <div class="aplayer no-destroy" data-id="8247012366" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false"> </div>
     # - <script src="xxxx"></script>https://music.163.com/playlist?id=8247012366&userid=591218383
 

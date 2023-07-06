@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: 我的一切
 date: 2023-05-31 10:43:53
 type: archives
 ---
@@ -15,4 +15,5 @@ type: archives
 <a href="mailto:www.3234348964@qq.com">点击给我发邮箱</a>
 
 <a href="https://blog.csdn.net/m0_63288666?spm=1010.2135.3001.5343">我的csdn网址</a>
+<div>github看边栏~</div>
 </p>

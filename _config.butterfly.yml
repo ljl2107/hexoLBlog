@@ -235,7 +235,7 @@ aside:
       link: https://github.com/ljl2107
   card_announcement:
     enable: true
-    content: This is my Blog.Welcome!评论功能在前台展示不了，但是我在后台还是可以收到的！
+    content: 评论功能在前台展示不了，但是我在后台还是可以收到的！<br/>多语种翻译：<div id="translate"></div>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -903,6 +903,10 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     - <script src="https://fastly.jsdelivr.net/gh/ljl2107/live2d-widget@latest/autoload.js"></script>
+    - <script src="https://res.zvo.cn/translate/translate.js"></script>
+    - <script>translate.setUseVersion2();
+    - translate.language.setLocal('chinese_simplified'); 
+    - translate.execute();</script>
     # - <div class="aplayer no-destroy" data-id="8247012366" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="false"> </div>
     # - <script src="xxxx"></script>https://music.163.com/playlist?id=8247012366&userid=591218383
 

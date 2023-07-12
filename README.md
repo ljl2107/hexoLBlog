@@ -85,11 +85,17 @@ hexo publish [layout] <title>
 ## 正文前部设置
 用于设置文章的日期封面等内容
 [front-matter正文前部设置](https://hexo.io/zh-cn/docs/front-matter)
-补充一些内容
+[butterfly](https://butterfly.js.org/posts/dc584b87/#Post-Front-matter)
+常用内容
 > |   参数   |   描述   |
 > | :-----: | :------: |
 > |  cover  |  封面图  |
 > | top_img | 顶部图片 |
+> | title | 【必需】文章标题 |
+> | date | 【必需】文章创建日期 |
+> | tags | 标签 |
+> | categories | 分类 |
+
 
 # Netlify
 [官网](https://app.netlify.com/)

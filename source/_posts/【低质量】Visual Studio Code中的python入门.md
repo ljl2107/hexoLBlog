@@ -1,10 +1,10 @@
 ---
-abbrlink: 【低质量】Visual Studio Code中的python入门
+abbrlink: Visual Studio Code中的python入门
 categories: []
 date: '2023-07-23T10:13:23.192297+08:00'
 tags: []
-title: 【低质量】Visual Studio Code中的python入门
-updated: 2023-7-23T10:13:23.602+8:0
+title: Visual Studio Code中的python入门
+updated: 2023-7-23T11:29:30.389+8:0
 ---
 # python版本
 

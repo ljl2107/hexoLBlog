@@ -236,7 +236,7 @@ aside:
       link: https://github.com/ljl2107
   card_announcement:
     enable: true
-    content: <br/>多语种翻译：<div id="translate"></div>
+    content: <br/>多语种翻译：<div id="translate"></div><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PwwNDAsMCwcGCQt-Tk4RXFBS" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
